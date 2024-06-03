@@ -1,0 +1,13 @@
+Package: gcea
+Type: Package
+Title: Perform Enrichment Analysis and for a Gene Set in Compound-Gene Interactome
+Version: 0.1.1
+Author: Khiem Nguyen
+Maintainer: The package maintainer <knguyen@buckinstitute.org>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Depends: 
+    R (>= 2.10)
